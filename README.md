@@ -70,7 +70,7 @@ If you use this repository in academic work, please cite it as:
 
 ```bibtex
 @software{topologicalknotindexer_che_data_to_pd_code,
-  author = {{TopologicalKnotIndexer contributors}},
+  author = {{GGN\_2015}},
   title = {{che\_data\_to\_pd\_code}},
   year = {2026},
   url = {https://github.com/TopologicalKnotIndexer/che_data_to_pd_code}
